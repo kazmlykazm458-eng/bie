@@ -46,4 +46,3 @@ class LockScreen(App):
 
 if __name__ == '__main__':
     LockScreen().run()
-
